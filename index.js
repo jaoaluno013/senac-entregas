@@ -19,3 +19,4 @@ console.log('tipo de varíavel idade',typeof idade)
 
 
 
+
